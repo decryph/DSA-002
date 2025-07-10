@@ -1,4 +1,6 @@
 //Skeleton
+#include<bits/stdc++.h>
+using namespace std; //if not used the need to write std::cin>>a;
 int main(){
 int a;
 cin>> a;
@@ -6,3 +8,72 @@ cin>> a;
 return 0;
  }
 
+//void
+int sum(int a, int b){
+return a+b;
+}
+
+//pairs
+ void pair(){
+pair<int,int> p={1,2};
+cout<< p.first<< " "<< p.second;
+
+pair<int,pair<int,int>> p ={1,{3,4}};
+cout<<p.first<<" "<< p.second.second<<" "<<p.second.first;
+// can also declare pair arr[] 
+ }
+
+//vectors dynamic can inc size
+vector<int> v; //{}
+v.push_back(1); //{}-> {1}
+v.emplace_back(2); // {}->{1}->{1,2}
+
+vector<pair<int,int>>vec;
+vector<int> v1(4,2) //{2,2,2,2} // if u use pushback later it can inc size and add 1
+
+vector<int>:: iterator it= v.begin(); //v.begin() = memoryaddress 
+it++;
+cout<<*(it)<< " ";  //* pointing the mem address value
+
+vector<int>:: iterator it= v.end();  //end = point to the mem location next to last element
+vector<int>:: iterator it= v.rend(); //reverse end = goes to the end mem loc and start in rev ordr
+vector<int>:: iterator it= v.rbegin(); 
+
+//auto = assign data type automatically
+for (auto it = v.begin(); it != v.end(); it++)
+    cout << * it << " ";
+
+v.erase(v.begin()+1); //erase
+v.erase(v.begin()+1, v.begin()+3); // [start,end) {10,20,30,12} = {10,12}
+
+v.insert(v.begin(), 5); //insert in indx0
+v.insert(v.begin()+5,10); //insert at [6] posn
+
+ls.push_front() //very cheap in time complexity
+ls.emplace_front(); 
+
+dq.pop_back();
+
+//Stack
+
+st.push(2); //{2}
+st.emplace(5); //{5,2}
+
+st.pop(); //pops the elemenet
+
+st.top(); st.size(); st.empty();
+
+pq.push();  // min heap
+pq.emplace();
+pq.pop(); //max heap
+
+set= everything sorted + unique
+
+ms.erase(ms.find(2); //only one set erased ms=multiset
+
+unordered_set<int> st; //random order //  LB, UB doesn't works rest all function are same
+
+void explainMap(){
+map<int,int> mpp; //stores unique key for data struct
+
+}
