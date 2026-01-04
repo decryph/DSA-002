@@ -7,6 +7,7 @@ It’s clout + credibility.
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/decryph/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
