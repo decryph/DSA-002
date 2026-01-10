@@ -26,6 +26,7 @@ It’s clout + credibility.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/decryph/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/decryph/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -59,4 +60,8 @@ It’s clout + credibility.
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/decryph/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/decryph/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
