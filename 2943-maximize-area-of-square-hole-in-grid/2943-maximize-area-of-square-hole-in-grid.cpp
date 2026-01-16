@@ -1,34 +1,40 @@
 class Solution {
 public:
     int maximizeSquareHoleArea(int n, int m, vector<int>& hBars, vector<int>& vBars) {
+        int maxConsecutiveHBars = 1;
+        int maxConsecutiveVBars = 1;
+
         sort(hBars.begin(), hBars.end());
         sort(vBars.begin(), vBars.end());
 
-        int maxiH = 1, maxiV = 1, maxi = 1;
+        int hLength = hBars.size();
+        int vLength = vBars.size();
 
-        for (size_t i = 1; i < hBars.size(); ++i) {
-            if (hBars[i] == hBars[i - 1] + 1) {
-                maxi++;
-            } else {
-                maxiH = max(maxiH, maxi);
-                maxi = 1;
+        int tempH = 1;
+        int tempV = 1;
+
+        for(int i = 1; i < max(hLength,vLength); i++){
+            if(i < hLength && hBars[i] - hBars[i-1] == 1){
+                tempH++;
+            }
+            else if(i < hLength){
+                maxConsecutiveHBars = max(maxConsecutiveHBars, tempH);
+                tempH = 1;
+            }
+            if(i < vLength && vBars[i] - vBars[i-1] == 1){
+                tempV++;
+            }
+            else if(i < vLength){
+                maxConsecutiveVBars = max(maxConsecutiveVBars, tempV);
+                tempV = 1;
             }
         }
-        maxiH = max(maxiH, maxi);
 
-        maxi = 1;
+        maxConsecutiveHBars = max(maxConsecutiveHBars, tempH);
+        maxConsecutiveVBars = max(maxConsecutiveVBars, tempV);
 
-        for (size_t i = 1; i < vBars.size(); ++i) {
-            if (vBars[i] == vBars[i - 1] + 1) {
-                maxi++;
-            } else {
-                maxiV = max(maxiV, maxi);
-                maxi = 1;
-            }
-        }
-        maxiV = max(maxiV, maxi);
+        int squareLen = min(maxConsecutiveHBars, maxConsecutiveVBars) + 1;
 
-        int side = min(maxiH+1, maxiV+1);
-        return side * side;
+        return squareLen * squareLen;
     }
 };
