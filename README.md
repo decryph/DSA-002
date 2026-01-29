@@ -15,6 +15,7 @@ It’s clout + credibility.
 | [1975-maximum-matrix-sum](https://github.com/decryph/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/decryph/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/decryph/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
@@ -78,6 +79,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -110,4 +112,12 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
