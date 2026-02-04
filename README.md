@@ -25,6 +25,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/decryph/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -89,6 +90,7 @@ It’s clout + credibility.
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/decryph/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
