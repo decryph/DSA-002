@@ -5,6 +5,7 @@ It’s clout + credibility.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -85,6 +86,7 @@ It’s clout + credibility.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -140,6 +142,7 @@ It’s clout + credibility.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
