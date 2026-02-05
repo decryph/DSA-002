@@ -30,6 +30,7 @@ It’s clout + credibility.
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/decryph/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@ It’s clout + credibility.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ It’s clout + credibility.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/decryph/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/decryph/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
