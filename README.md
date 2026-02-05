@@ -24,6 +24,7 @@ It’s clout + credibility.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -52,6 +53,7 @@ It’s clout + credibility.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/decryph/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -89,6 +91,7 @@ It’s clout + credibility.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
