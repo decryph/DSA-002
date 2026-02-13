@@ -34,6 +34,7 @@ It’s clout + credibility.
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/decryph/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3713-longest-balanced-substring-i](https://github.com/decryph/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/decryph/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/decryph/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -114,6 +115,7 @@ It’s clout + credibility.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/decryph/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/decryph/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3714-longest-balanced-substring-ii](https://github.com/decryph/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/decryph/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
