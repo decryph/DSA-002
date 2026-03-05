@@ -7,6 +7,7 @@ It’s clout + credibility.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/decryph/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -134,6 +135,7 @@ It’s clout + credibility.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/decryph/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/decryph/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -177,6 +179,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Heap (Priority Queue)
 |  |
