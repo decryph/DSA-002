@@ -64,6 +64,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/decryph/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -105,6 +106,7 @@ It’s clout + credibility.
 | [0008-string-to-integer-atoi](https://github.com/decryph/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -158,6 +160,7 @@ It’s clout + credibility.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/decryph/Leetcode/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Graph Theory
@@ -198,4 +201,8 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/decryph/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
