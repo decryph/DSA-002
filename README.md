@@ -6,6 +6,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -27,6 +28,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -78,6 +80,7 @@ It’s clout + credibility.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/decryph/Leetcode/tree/master/1975-maximum-matrix-sum) |
