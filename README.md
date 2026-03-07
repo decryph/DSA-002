@@ -6,6 +6,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/decryph/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -30,6 +31,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/decryph/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
