@@ -10,6 +10,7 @@ It’s clout + credibility.
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/decryph/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -71,6 +72,7 @@ It’s clout + credibility.
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/decryph/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -193,6 +195,7 @@ It’s clout + credibility.
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
