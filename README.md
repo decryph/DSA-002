@@ -88,6 +88,7 @@ It’s clout + credibility.
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/decryph/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +172,7 @@ It’s clout + credibility.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -192,6 +194,7 @@ It’s clout + credibility.
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
@@ -235,4 +238,12 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/decryph/Leetcode/tree/master/1980-find-unique-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
