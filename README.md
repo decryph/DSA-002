@@ -8,6 +8,7 @@ It’s clout + credibility.
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/decryph/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -241,6 +243,7 @@ It’s clout + credibility.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
