@@ -38,6 +38,7 @@ It’s clout + credibility.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/decryph/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/decryph/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -124,6 +125,7 @@ It’s clout + credibility.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/decryph/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/decryph/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/decryph/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
@@ -191,6 +193,7 @@ It’s clout + credibility.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/decryph/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/decryph/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/decryph/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Enumeration
 |  |
 | ------- |
