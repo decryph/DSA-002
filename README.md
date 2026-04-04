@@ -188,6 +188,7 @@ It’s clout + credibility.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/decryph/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/decryph/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/decryph/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/decryph/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/decryph/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -310,6 +311,7 @@ It’s clout + credibility.
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decryph/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/decryph/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/decryph/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/decryph/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
