@@ -18,6 +18,7 @@ It’s clout + credibility.
 | [0221-maximal-square](https://github.com/decryph/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/decryph/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/decryph/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -59,6 +60,7 @@ It’s clout + credibility.
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -311,6 +313,7 @@ It’s clout + credibility.
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decryph/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
+| [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/decryph/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/decryph/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/decryph/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
