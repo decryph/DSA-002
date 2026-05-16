@@ -15,6 +15,7 @@ It’s clout + credibility.
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/decryph/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/decryph/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/decryph/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/decryph/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/decryph/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -256,6 +257,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/decryph/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/decryph/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
