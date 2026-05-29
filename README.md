@@ -51,6 +51,7 @@ It’s clout + credibility.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/decryph/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/decryph/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/decryph/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/decryph/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -138,6 +139,7 @@ It’s clout + credibility.
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/decryph/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/decryph/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
 | ------- |
