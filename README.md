@@ -6,6 +6,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/decryph/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/decryph/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/decryph/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
@@ -324,6 +325,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/decryph/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
