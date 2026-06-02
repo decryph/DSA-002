@@ -13,6 +13,7 @@ It’s clout + credibility.
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decryph/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/decryph/Leetcode/tree/master/0118-pascals-triangle) |
@@ -253,6 +254,7 @@ It’s clout + credibility.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/decryph/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -331,6 +333,7 @@ It’s clout + credibility.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/decryph/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/decryph/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
