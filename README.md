@@ -9,6 +9,7 @@ It’s clout + credibility.
 | [0031-next-permutation](https://github.com/decryph/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/decryph/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/decryph/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decryph/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -109,6 +110,7 @@ It’s clout + credibility.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/decryph/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/decryph/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/decryph/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -347,6 +349,7 @@ It’s clout + credibility.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/decryph/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/decryph/Leetcode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/decryph/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/decryph/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
