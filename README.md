@@ -65,6 +65,7 @@ It’s clout + credibility.
 | [3546-equal-sum-grid-partition-i](https://github.com/decryph/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/decryph/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/decryph/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/decryph/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -163,6 +164,7 @@ It’s clout + credibility.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/decryph/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -271,6 +273,7 @@ It’s clout + credibility.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/decryph/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/decryph/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/decryph/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
@@ -289,6 +292,7 @@ It’s clout + credibility.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/decryph/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/decryph/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
@@ -343,6 +347,7 @@ It’s clout + credibility.
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/decryph/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
