@@ -11,6 +11,7 @@ It’s clout + credibility.
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/decryph/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/decryph/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/decryph/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/decryph/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
@@ -256,6 +257,7 @@ It’s clout + credibility.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/decryph/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
