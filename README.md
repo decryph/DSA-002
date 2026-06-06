@@ -119,6 +119,7 @@ It’s clout + credibility.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/decryph/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/decryph/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/decryph/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/decryph/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/decryph/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/decryph/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ It’s clout + credibility.
 | [0013-roman-to-integer](https://github.com/decryph/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/decryph/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/decryph/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/decryph/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/decryph/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/decryph/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -428,4 +430,8 @@ It’s clout + credibility.
 | ------- |
 | [0050-powx-n](https://github.com/decryph/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/decryph/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/decryph/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
