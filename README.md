@@ -25,6 +25,7 @@ It’s clout + credibility.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/decryph/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/decryph/Leetcode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/decryph/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -81,6 +82,7 @@ It’s clout + credibility.
 | [0073-set-matrix-zeroes](https://github.com/decryph/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/decryph/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/decryph/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -107,6 +109,7 @@ It’s clout + credibility.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -269,6 +272,7 @@ It’s clout + credibility.
 | [0056-merge-intervals](https://github.com/decryph/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/decryph/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decryph/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/decryph/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/decryph/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
