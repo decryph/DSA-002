@@ -48,6 +48,7 @@ It’s clout + credibility.
 | [1980-find-unique-binary-string](https://github.com/decryph/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/decryph/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/decryph/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/decryph/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/decryph/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/decryph/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/decryph/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -368,6 +369,7 @@ It’s clout + credibility.
 | [0189-rotate-array](https://github.com/decryph/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/decryph/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/decryph/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -401,6 +403,7 @@ It’s clout + credibility.
 | [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/decryph/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/decryph/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/decryph/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/decryph/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/decryph/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/decryph/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
