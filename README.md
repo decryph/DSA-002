@@ -69,6 +69,7 @@ It’s clout + credibility.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/decryph/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/decryph/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/decryph/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -144,6 +145,7 @@ It’s clout + credibility.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/decryph/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/decryph/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/decryph/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/decryph/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/decryph/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -168,6 +170,7 @@ It’s clout + credibility.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/decryph/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/decryph/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/decryph/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/decryph/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Greedy
@@ -217,12 +220,14 @@ It’s clout + credibility.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/decryph/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/decryph/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/decryph/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/decryph/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/decryph/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/decryph/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -348,6 +353,7 @@ It’s clout + credibility.
 | [1009-complement-of-base-10-integer](https://github.com/decryph/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/decryph/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph Theory
 |  |
 | ------- |
