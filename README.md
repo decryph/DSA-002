@@ -96,6 +96,7 @@ It’s clout + credibility.
 | [0874-walking-robot-simulation](https://github.com/decryph/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/decryph/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/decryph/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/decryph/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/decryph/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -122,6 +123,7 @@ It’s clout + credibility.
 | [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/decryph/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/decryph/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/decryph/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/decryph/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/decryph/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -259,6 +261,7 @@ It’s clout + credibility.
 | [0657-robot-return-to-origin](https://github.com/decryph/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/decryph/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/decryph/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/decryph/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/decryph/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/decryph/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
