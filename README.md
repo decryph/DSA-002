@@ -75,6 +75,7 @@ It’s clout + credibility.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/decryph/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/decryph/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/decryph/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/decryph/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -163,6 +164,7 @@ It’s clout + credibility.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/decryph/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/decryph/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/decryph/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/decryph/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/decryph/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -210,6 +212,7 @@ It’s clout + credibility.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/decryph/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/decryph/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/decryph/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -345,6 +348,7 @@ It’s clout + credibility.
 | [2784-check-if-array-is-good](https://github.com/decryph/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/decryph/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/decryph/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/decryph/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/decryph/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -369,6 +373,7 @@ It’s clout + credibility.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/decryph/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/decryph/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/decryph/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/decryph/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -403,6 +408,7 @@ It’s clout + credibility.
 | [1009-complement-of-base-10-integer](https://github.com/decryph/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/decryph/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/decryph/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/decryph/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph Theory
 |  |
@@ -412,6 +418,7 @@ It’s clout + credibility.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/decryph/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/decryph/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/decryph/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/decryph/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/decryph/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -441,6 +448,7 @@ It’s clout + credibility.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/decryph/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/decryph/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/decryph/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/decryph/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/decryph/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
