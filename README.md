@@ -29,6 +29,7 @@ It’s clout + credibility.
 | [0229-majority-element-ii](https://github.com/decryph/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/decryph/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/decryph/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/decryph/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/decryph/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/decryph/Leetcode/tree/master/0518-coin-change-ii) |
@@ -175,6 +176,7 @@ It’s clout + credibility.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/decryph/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/decryph/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/decryph/Leetcode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/decryph/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/decryph/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/decryph/Leetcode/tree/master/0518-coin-change-ii) |
@@ -308,6 +310,7 @@ It’s clout + credibility.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/decryph/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/decryph/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/decryph/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -651,6 +654,7 @@ It’s clout + credibility.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/decryph/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/decryph/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/decryph/Leetcode/tree/master/0518-coin-change-ii) |
@@ -662,5 +666,6 @@ It’s clout + credibility.
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/decryph/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
