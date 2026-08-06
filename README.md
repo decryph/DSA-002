@@ -184,6 +184,7 @@ It’s clout + credibility.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/decryph/Leetcode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/decryph/Leetcode/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/decryph/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/decryph/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/decryph/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/decryph/Leetcode/tree/master/1406-stone-game-iii) |
@@ -344,6 +345,7 @@ It’s clout + credibility.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/decryph/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/decryph/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/decryph/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/decryph/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/decryph/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/decryph/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/decryph/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -673,4 +675,8 @@ It’s clout + credibility.
 | ------- |
 | [0322-coin-change](https://github.com/decryph/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/decryph/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/decryph/Leetcode/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
