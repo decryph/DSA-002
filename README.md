@@ -47,6 +47,7 @@ It’s clout + credibility.
 | [1406-stone-game-iii](https://github.com/decryph/Leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/decryph/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/decryph/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/decryph/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/decryph/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/decryph/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/decryph/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -194,6 +195,7 @@ It’s clout + credibility.
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/decryph/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/decryph/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/decryph/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/decryph/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/decryph/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/decryph/Leetcode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/decryph/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -227,6 +229,7 @@ It’s clout + credibility.
 | [1390-four-divisors](https://github.com/decryph/Leetcode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/decryph/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/decryph/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/decryph/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/decryph/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/decryph/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/decryph/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -666,6 +669,7 @@ It’s clout + credibility.
 | [0877-stone-game](https://github.com/decryph/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/decryph/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/decryph/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/decryph/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/decryph/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
